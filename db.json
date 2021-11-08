@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "Murilo",
+      "sobrenome": "Alves",
+      "email": "mbalves1@outlook.com",
+      "telefone": "14997622613",
+      "cep": "11055300",
+      "address": "Jose Caballero",
+      "addresstwo": "",
+      "birth": "1989-10-28",
+      "cpf": "26533356986",
+      "pay": "0000",
+      "id": 1
+    }
+  ]
+}
