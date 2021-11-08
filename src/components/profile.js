@@ -123,7 +123,7 @@ const IndexPage = () => {
           flexDirection: 'column',
           alignItems: 'center',
           margin: 'auto',
-          marginTop: '20px',
+          marginTop: '10%',
           paddingBottom: '20px',
           boxShadow: '10px 10px 58px black'
         }}>
@@ -223,10 +223,8 @@ const IndexPage = () => {
                 flexDirection: 'column',
                 alignItems: 'center',
                 minHeight: '500px',
-                marginLeft: '20px'
               }}>
                 <h2>Informações Pessoais</h2>
-                <div className="block mt-6">
                   <label style={{
                     marginTop: '10px'
                   }} htmlFor="address">Data de Nascimento</label>
@@ -254,7 +252,6 @@ const IndexPage = () => {
                     {...register("pay")}
 
                   />
-                </div>
               </section>
             )}
             {formStep === 4 && (
